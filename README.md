@@ -1,5 +1,5 @@
 # turtle-race
-Race turtles in a multiple difficulty racecourse while avoiding obstacles
+Race a turtle, singleplayer or multiplayer, against the computers' in a multiple difficulty racecourse while avoiding obstacles. 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for usage.
