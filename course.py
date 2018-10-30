@@ -11,7 +11,7 @@
         outofbounds(turtle) - Checks if turtle is outside racecourse boundary
         reachedfinish(turtle) - Checks if turtle has reached the finish line
 """
-from random import choice
+from random import choice, randint
 from turtle import *
 
 
