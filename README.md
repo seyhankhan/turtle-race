@@ -1,4 +1,4 @@
-# turtle-race
+# Turtle Race
 Race a turtle, singleplayer or multiplayer, against the computers' in a multiple difficulty racecourse while avoiding obstacles. 
 
 ## Getting Started
